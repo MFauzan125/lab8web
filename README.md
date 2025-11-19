@@ -1,4 +1,4 @@
-# Lab9web
+# Lab 8 web
 Koneksi.php
 <img width="1064" height="786" alt="code koneksi" src="https://github.com/user-attachments/assets/2dd34ed6-a2ef-4c58-be02-79f4b19fd59a" />
 Indeks.php
